@@ -1,4 +1,4 @@
-# Hi there, I'm Veronica Wanjiku Gika 👋
+# Hi there, I'm Veronica Gika 👋
 
 ### 📊 Data Analyst | Excel • SQL • Power BI • Python • R
 
