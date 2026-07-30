@@ -98,6 +98,8 @@ A collection of practical data cleaning projects demonstrating:
 
 A growing collection of SQL projects focused on querying, transforming, and analyzing business data.
 
+🔗 Repository:https://github.com/veeanalyst/supply-chain-analysis
+
 ---
 
 ## 📚 Currently Learning
